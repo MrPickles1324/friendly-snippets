@@ -169,12 +169,12 @@
     },
     "Main axis alignment": {
         "prefix": "maa",
-        "body": "mainAxisAlignment: MainAxisAlignment.$1",
+        "body": "mainAxisAlignment: MainAxisAlignment.$1,",
         "description": "yep"
     },
     "Cros axis alignment": {
         "prefix": "maa",
-        "body": "crossAxisAlignment: MainAxisAlignment.$1",
+        "body": "crossAxisAlignment: MainAxisAlignment.$1,",
         "description": "yep"
     }
 }
