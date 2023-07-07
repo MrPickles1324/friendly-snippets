@@ -173,7 +173,7 @@
         "description": "yep"
     },
     "Cros axis alignment": {
-        "prefix": "maa",
+        "prefix": "caa",
         "body": "crossAxisAlignment: MainAxisAlignment.$1,",
         "description": "yep"
     }
