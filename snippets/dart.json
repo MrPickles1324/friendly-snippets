@@ -171,9 +171,9 @@
         "body": "mainAxisAlignment: MainAxisAlignment.$1,",
         "description": "yep"
     },
-    "Cros axis alignment": {
+    "Cross axis alignment": {
         "prefix": "caa",
-        "body": "crossAxisAlignment: MainAxisAlignment.$1,",
+        "body": "crossAxisAlignment: CrossAxisAlignment.$1,",
         "description": "yep"
     }
 }
